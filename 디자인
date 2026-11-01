@@ -1,0 +1,675 @@
+<div style="width: 393px; height: 852px; position: relative; background: black; overflow: hidden">
+  <div data-device="iPhone" data-orientation="Portrait" style="width: 402px; height: 34px; left: -4px; top: 818px; position: absolute">
+    <div style="width: 144px; height: 5px; left: 273px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: var(--Labels-Primary, white); border-radius: 100px"></div>
+  </div>
+  <div data-background="False" style="width: 402px; height: 50px; padding-top: 21px; left: -4px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="flex: 1 1 0; padding-left: 16px; padding-right: 6px; justify-content: center; align-items: center; gap: 10px; display: flex">
+        <div style="text-align: center; color: var(--Labels-Primary, white); font-size: 17px; font-family: SF Pro; font-weight: 590; line-height: 22px; word-wrap: break-word">12:45</div>
+      </div>
+      <div style="width: 124px; height: 10px"></div>
+      <div style="flex: 1 1 0; padding-left: 6px; padding-right: 16px; justify-content: center; align-items: center; gap: 7px; display: flex">
+        <div style="width: 19.20px; height: 12.23px; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 17.14px; height: 12.33px; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 25px; height: 13px; opacity: 0.35; border-radius: 4.30px; border: 1px var(--Labels-Primary, white) solid"></div>
+        <div style="width: 1.33px; height: 4.08px; opacity: 0.40; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 21px; height: 9px; background: var(--Labels-Primary, white); border-radius: 2.50px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 262px; left: 115px; top: 64px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 20px; font-family: Netflix Sans; font-weight: 500; line-height: 24px; word-wrap: break-word">Who’s Watching?</div>
+    <div style="text-align: center; color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Edit</div>
+  </div>
+  <div style="width: 231px; left: 81px; top: 242px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 21px; display: inline-flex">
+    <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 23px; display: inline-flex">
+      <div style="width: 104px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 6px; display: inline-flex">
+        <div style="align-self: stretch; height: 104px; position: relative; overflow: hidden; border-radius: 8.16px">
+          <img style="width: 105px; height: 105px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/105x105" />
+        </div>
+        <div style="align-self: stretch; text-align: center; color: white; font-size: 18px; font-family: Netflix Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Saurabh S...</div>
+      </div>
+      <div style="width: 104px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+        <div style="align-self: stretch; height: 104px; position: relative; overflow: hidden; border-radius: 8.16px">
+          <img style="width: 104.66px; height: 105px; left: 0px; top: 0px; position: absolute; border-radius: 8.16px" src="https://placehold.co/105x105" />
+        </div>
+        <div style="align-self: stretch; text-align: center; color: white; font-size: 18px; font-family: Netflix Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Children</div>
+      </div>
+    </div>
+    <div style="width: 104px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 6px; display: flex">
+      <div style="align-self: stretch; height: 104px; position: relative; background: black; overflow: hidden; border-radius: 7.84px; outline: 1.50px #595959 solid; outline-offset: -1.50px">
+        <div style="width: 44px; height: 44px; left: 30.50px; top: 30px; position: absolute; overflow: hidden">
+          <div style="width: 3.27px; height: 30.94px; left: 20.37px; top: 6.53px; position: absolute; background: white"></div>
+          <div style="width: 30.94px; height: 3.27px; left: 6.53px; top: 20.37px; position: absolute; background: white"></div>
+        </div>
+      </div>
+      <div style="align-self: stretch; text-align: center; color: white; font-size: 18px; font-family: Netflix Sans; font-weight: 400; line-height: 24px; word-wrap: break-word">Add Profile</div>
+    </div>
+  </div>
+</div>
+<div style="width: 393px; height: 1417px; position: relative; background: linear-gradient(180deg, #39101E 0%, #080204 100%); overflow: hidden">
+  <div style="width: 393px; padding-left: 16px; padding-right: 16px; left: 0px; top: 64px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
+    <div style="text-align: center; color: white; font-size: 22px; font-family: Netflix Sans; font-weight: 500; line-height: 24px; word-wrap: break-word">For Saurabh Saini</div>
+    <div style="justify-content: flex-start; align-items: center; gap: 18px; display: flex">
+      <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div style="width: 22px; height: 18px; left: 1px; top: 3px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div style="width: 18px; height: 19px; left: 3px; top: 2px; position: absolute; background: white"></div>
+      </div>
+      <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div style="width: 19.31px; height: 20px; left: 2.35px; top: 2px; position: absolute; background: white"></div>
+      </div>
+    </div>
+  </div>
+  <div style="left: 16px; top: 110px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 8px; display: inline-flex">
+    <div style="padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; border-radius: 24px; outline: 1px rgba(255, 255, 255, 0.50) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="opacity: 0.80; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">TV Shows</div>
+    </div>
+    <div style="padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; border-radius: 24px; outline: 1px rgba(255, 255, 255, 0.50) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 8px; display: flex">
+      <div style="opacity: 0.80; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Movies</div>
+    </div>
+    <div style="padding-left: 16px; padding-right: 16px; padding-top: 8px; padding-bottom: 8px; border-radius: 24px; outline: 1px rgba(255, 255, 255, 0.50) solid; outline-offset: -1px; justify-content: center; align-items: center; gap: 4px; display: flex">
+      <div style="opacity: 0.80; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Categories</div>
+      <div style="width: 16px; height: 16px; position: relative; transform: rotate(-90deg); transform-origin: top left; opacity: 0.80; overflow: hidden">
+        <div style="width: 13.20px; height: 7.78px; left: 1.40px; top: 4.11px; position: absolute; background: white"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 345px; height: 486px; left: 24px; top: 163px; position: absolute; background: black; overflow: hidden; border-radius: 12px; outline: 1px rgba(255, 255, 255, 0.14) solid; outline-offset: -1px">
+    <img style="width: 345px; height: 486px; left: 0px; top: 0px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, black 100%)" src="https://placehold.co/345x486" />
+    <div style="width: 313px; left: 16px; top: 301px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 20px; display: inline-flex">
+      <img style="width: 281px; height: 78px" src="https://placehold.co/281x78" />
+      <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: flex">
+        <div style="opacity: 0.90; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+          <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Understated</div>
+          <div style="width: 3px; height: 3px; position: relative">
+            <div style="width: 3px; height: 3px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          </div>
+          <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Dark</div>
+          <div style="width: 3px; height: 3px; position: relative">
+            <div style="width: 3px; height: 3px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          </div>
+          <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Drama</div>
+          <div style="width: 3px; height: 3px; position: relative">
+            <div style="width: 3px; height: 3px; left: 0px; top: 0px; position: absolute; background: white; border-radius: 9999px"></div>
+          </div>
+          <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Detectives</div>
+        </div>
+        <div style="align-self: stretch; justify-content: flex-start; align-items: center; gap: 12px; display: inline-flex">
+          <div style="flex: 1 1 0; align-self: stretch; padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: white; border-radius: 4px; justify-content: center; align-items: center; gap: 6px; display: flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden; border-radius: 2px">
+              <div style="width: 18px; height: 18px; left: 4px; top: 3px; position: absolute; background: black; border-radius: 1px"></div>
+            </div>
+            <div style="text-align: center; color: black; font-size: 15px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Play</div>
+          </div>
+          <div style="flex: 1 1 0; height: 38px; padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: #3D393A; border-radius: 4px; justify-content: center; align-items: center; gap: 6px; display: flex">
+            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+              <div style="width: 1.78px; height: 16.87px; left: 11.11px; top: 3.56px; position: absolute; background: white"></div>
+              <div style="width: 16.87px; height: 1.78px; left: 3.56px; top: 11.11px; position: absolute; background: white"></div>
+            </div>
+            <div style="text-align: center; justify-content: flex-end; display: flex; flex-direction: column; color: white; font-size: 15px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">My List</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 488px; left: 0px; top: 665px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Continue Watching for Saurabh Saini</div>
+      <div style="width: 380px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 121px; height: 173px; left: -6px; top: -1px; position: absolute" src="https://placehold.co/121x173" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">2h 56m</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 96px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 110.70px; height: 159px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/111x159" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">P5:E2</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 68px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 110.70px; height: 159px; left: 0px; top: -0.50px; position: absolute" src="https://placehold.co/111x159" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Episode 1</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 68px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 110.70px; height: 159px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/111x159" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">2h 56m</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 68px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 121px; height: 173px; left: -6px; top: -1px; position: absolute" src="https://placehold.co/121x173" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">2h 56m</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 96px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 110.70px; height: 159px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/111x159" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">P5:E2</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 68px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+        <div style="width: 110px; height: 195.53px; position: relative; overflow: hidden; border-radius: 4px">
+          <div style="width: 110px; height: 39px; left: 0px; top: 157px; position: absolute; background: #161616; overflow: hidden">
+            <div style="left: 12px; top: 7.30px; position: absolute; background: #161616; justify-content: flex-start; align-items: flex-start; gap: 38px; display: inline-flex">
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 20px; height: 20px; left: 2px; top: 2px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+              <div style="width: 24px; height: 24px; position: relative">
+                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+                  <div style="width: 2px; height: 16px; left: 11px; top: 4px; position: absolute; outline: 2px white solid; outline-offset: -1px"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 154px; left: 0px; top: 0px; position: absolute; background: #F4B8B8; overflow: hidden; border-top-left-radius: 3.62px; border-top-right-radius: 3.62px">
+            <img style="width: 110.70px; height: 159px; left: 0px; top: -0.50px; position: absolute" src="https://placehold.co/111x159" />
+            <div style="width: 57.03px; height: 57.03px; left: 26px; top: 49px; position: absolute">
+              <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+              <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+            </div>
+            <div style="width: 110px; height: 29px; padding-top: 10.86px; padding-bottom: 4px; padding-left: 7.24px; padding-right: 7.24px; left: 0px; top: 125px; position: absolute; background: linear-gradient(180deg, rgba(0, 0, 0, 0) 26%, black 87%); justify-content: center; align-items: center; gap: 7.24px; display: inline-flex">
+              <div style="text-align: center; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Episode 1</div>
+            </div>
+          </div>
+          <div style="width: 110px; height: 3px; left: 0px; top: 154px; position: absolute; overflow: hidden">
+            <div style="width: 110px; height: 3px; left: 0px; top: 0px; position: absolute; background: #999897"></div>
+            <div style="width: 68px; height: 3px; left: 0px; top: 0px; position: absolute; background: #D0131A"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Your Next Watch</div>
+      <div style="width: 381px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">International TV Shows Dubbed in Hindi</div>
+      <div style="width: 381px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <div style="width: 110px; height: 158px; left: -0.44px; top: -0.50px; position: absolute">
+            <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+          </div>
+        </div>
+        <div style="width: 110px; height: 158px; position: relative; overflow: hidden; border-radius: 4px">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <div style="width: 110px; height: 158px; left: -0.44px; top: -0.50px; position: absolute">
+            <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+          </div>
+        </div>
+        <div style="width: 110px; height: 158px; position: relative; overflow: hidden; border-radius: 4px">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Relentless Crime Dramas</div>
+      <div style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 393px; padding-top: 8px; padding-bottom: 24px; left: 0px; top: 1337px; position: absolute; background: #161616; outline: 1px rgba(0, 0, 0, 0.10) solid; outline-offset: -1px; backdrop-filter: blur(30px); flex-direction: column; justify-content: flex-start; align-items: center; gap: 27px; display: inline-flex">
+    <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="width: 72px; height: 48px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+        <div style="width: 24px; height: 24px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="width: 19.72px; height: 20px; background: white"></div>
+        </div>
+        <div style="width: 35.55px; text-align: center; color: white; font-size: 9px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Home</div>
+      </div>
+      <div style="width: 72px; height: 48px; opacity: 0.50; flex-direction: column; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+        <div style="width: 24px; height: 24px; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+          <div style="width: 14.83px; height: 14.84px; border-radius: 1.98px; outline: 1.98px white solid; outline-offset: -0.99px"></div>
+          <div style="width: 13.85px; height: 13.57px; transform: rotate(-8deg); transform-origin: top left; border-radius: 1.98px; outline: 1.98px white solid; outline-offset: -0.99px"></div>
+          <div style="width: 5.44px; height: 6.92px; background: white"></div>
+        </div>
+        <div style="text-align: center; color: white; font-size: 9px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">New & Hot</div>
+      </div>
+      <div style="width: 72px; height: 48px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 2px; display: inline-flex">
+        <img style="width: 24.23px; height: 24.23px" src="https://placehold.co/24x24" />
+        <div style="opacity: 0.50; text-align: center; color: white; font-size: 9px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">My Netflix</div>
+      </div>
+    </div>
+  </div>
+  <div data-background="False" style="width: 402px; height: 50px; padding-top: 21px; left: -4px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="flex: 1 1 0; padding-left: 16px; padding-right: 6px; justify-content: center; align-items: center; gap: 10px; display: flex">
+        <div style="text-align: center; color: var(--Labels-Primary, white); font-size: 17px; font-family: SF Pro; font-weight: 590; line-height: 22px; word-wrap: break-word">12:45</div>
+      </div>
+      <div style="width: 124px; height: 10px"></div>
+      <div style="flex: 1 1 0; padding-left: 6px; padding-right: 16px; justify-content: center; align-items: center; gap: 7px; display: flex">
+        <div style="width: 19.20px; height: 12.23px; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 17.14px; height: 12.33px; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 25px; height: 13px; opacity: 0.35; border-radius: 4.30px; border: 1px var(--Labels-Primary, white) solid"></div>
+        <div style="width: 1.33px; height: 4.08px; opacity: 0.40; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 21px; height: 9px; background: var(--Labels-Primary, white); border-radius: 2.50px"></div>
+      </div>
+    </div>
+  </div>
+  <div data-device="iPhone" data-orientation="Portrait" style="width: 402px; height: 34px; left: -4px; top: 1383px; position: absolute">
+    <div style="width: 144px; height: 5px; left: 273px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: var(--Labels-Primary, white); border-radius: 100px"></div>
+  </div>
+</div>
+<div style="width: 393px; height: 852px; position: relative; background: black; overflow: hidden">
+  <div style="width: 393px; left: 0px; top: 634px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">More Like This</div>
+      <div style="width: 381px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">International TV Shows Dubbed in Hindi</div>
+      <div style="width: 381px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <div style="width: 110px; height: 158px; left: -0.44px; top: -0.50px; position: absolute">
+            <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+          </div>
+        </div>
+        <div style="width: 110px; height: 158px; position: relative; overflow: hidden; border-radius: 4px">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <div style="width: 110px; height: 158px; left: -0.44px; top: -0.50px; position: absolute">
+            <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+          </div>
+        </div>
+        <div style="width: 110px; height: 158px; position: relative; overflow: hidden; border-radius: 4px">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Relentless Crime Dramas</div>
+      <div style="justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: 0px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Your Next Watch</div>
+      <div style="width: 381px; justify-content: flex-start; align-items: center; gap: 8px; display: inline-flex">
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+        <div style="width: 110px; height: 158px; position: relative">
+          <img style="width: 110px; height: 158px; left: 0px; top: -0.47px; position: absolute; border-radius: 4px" src="https://placehold.co/110x158" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 393px; height: 222px; left: 0px; top: 59px; position: absolute; overflow: hidden">
+    <img style="width: 393px; height: 222px; left: 0px; top: 0px; position: absolute; background: radial-gradient(ellipse 40.10% 47.96% at 50.00% 50.00%, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.80) 100%)" src="https://placehold.co/393x222" />
+    <div style="left: 313px; top: 8px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+      <div style="width: 30px; height: 30px; padding-top: 7.06px; padding-bottom: 7.06px; background: #282824; border-radius: 56.47px; justify-content: center; align-items: center; gap: 7.06px; display: flex">
+        <div data-style="Outlined" style="width: 16.88px; height: 16.88px; position: relative; overflow: hidden">
+          <div style="width: 15.47px; height: 12.66px; left: 0.70px; top: 2.11px; position: absolute; background: white"></div>
+        </div>
+      </div>
+      <div style="width: 30px; height: 30px; padding-top: 7.06px; padding-bottom: 7.06px; background: #282824; border-radius: 56.47px; justify-content: center; align-items: center; gap: 7.06px; display: flex">
+        <div data-style="Outlined" style="width: 18.75px; height: 18.75px; position: relative; overflow: hidden">
+          <div style="width: 10.94px; height: 10.94px; left: 3.91px; top: 3.91px; position: absolute; background: white"></div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 22px; height: 22px; padding-top: 5.18px; padding-bottom: 5.18px; left: 363px; top: 176px; position: absolute; background: #090703; border-radius: 41.41px; justify-content: center; align-items: center; gap: 5.18px; display: inline-flex">
+      <div style="width: 15.53px; height: 15.53px; position: relative; overflow: hidden">
+        <div style="width: 5.82px; height: 10.35px; left: 1.94px; top: 2.59px; position: absolute; background: white; border-radius: 0.19px"></div>
+        <div style="width: 5.83px; height: 5.83px; left: 2.08px; top: 2.08px; position: absolute; background: white; outline: 0.30px white solid; outline-offset: -0.15px"></div>
+      </div>
+    </div>
+    <div style="width: 57.03px; height: 57.03px; left: 168px; top: 82px; position: absolute; opacity: 0.70">
+      <div style="width: 57.03px; height: 57.03px; left: 0px; top: 0px; position: absolute; background: rgba(0, 0, 0, 0.54); border-radius: 9999px; border: 1.81px white solid"></div>
+      <div style="width: 20px; height: 20px; left: 21px; top: 19px; position: absolute; background: white; border-radius: 1.11px"></div>
+    </div>
+  </div>
+  <div style="width: 393px; left: 0px; top: 293px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 4px; display: flex">
+      <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; justify-content: space-between; align-items: center; display: inline-flex">
+        <div style="color: white; font-size: 16px; font-family: Netflix Sans; font-weight: 500; line-height: 20px; word-wrap: break-word">Anweshippin Kandethum</div>
+        <div style="justify-content: flex-start; align-items: center; gap: 2.17px; display: flex">
+          <img style="width: 21.67px; height: 26px" src="https://placehold.co/22x26" />
+          <div style="height: 26px; padding-top: 1.08px; justify-content: flex-start; align-items: center; gap: 8.67px; display: flex">
+            <div style="opacity: 0.80; color: white; font-size: 10.83px; font-family: Netflix Sans; font-weight: 700; letter-spacing: 4.33px; word-wrap: break-word">SERIES</div>
+          </div>
+        </div>
+      </div>
+      <div style="padding-left: 12px; padding-right: 12px; justify-content: flex-start; align-items: center; gap: 6px; display: inline-flex">
+        <div style="color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">2024</div>
+        <div style="padding-top: 2px; padding-bottom: 3px; padding-left: 4px; padding-right: 4px; background: #3D393A; border-radius: 2px; justify-content: center; align-items: center; gap: 8px; display: flex">
+          <div style="opacity: 0.80; color: white; font-size: 8px; font-family: Netflix Sans; font-weight: 500; line-height: 11px; letter-spacing: 0.16px; word-wrap: break-word">U/A 16+</div>
+        </div>
+        <div style="color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">2h 22m</div>
+        <div style="width: 18.74px; height: 14.83px; padding-left: 3.12px; padding-right: 3.12px; padding-top: 2.47px; padding-bottom: 2.47px; border-radius: 1.56px; outline: 1.56px rgba(255, 255, 255, 0.30) solid; outline-offset: -0.78px; justify-content: center; align-items: center; gap: 6.25px; display: flex">
+          <div style="color: rgba(255, 255, 255, 0.70); font-size: 8px; font-family: Netflix Sans; font-weight: 500; letter-spacing: 0.80px; word-wrap: break-word">HD</div>
+        </div>
+      </div>
+    </div>
+    <div style="align-self: stretch; padding-left: 12px; padding-right: 12px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+      <div style="align-self: stretch; height: 38px; padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: white; border-radius: 4px; justify-content: center; align-items: center; gap: 6px; display: inline-flex">
+        <div style="width: 24px; height: 24px; position: relative; overflow: hidden; border-radius: 2px">
+          <div style="width: 18px; height: 18px; left: 4px; top: 3px; position: absolute; background: black; border-radius: 1px"></div>
+        </div>
+        <div style="text-align: center; color: black; font-size: 15px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Play</div>
+      </div>
+      <div style="align-self: stretch; height: 38px; padding-left: 12px; padding-right: 12px; padding-top: 6px; padding-bottom: 6px; background: #3D393A; border-radius: 4px; justify-content: center; align-items: center; gap: 6px; display: inline-flex">
+        <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+          <div style="width: 18px; height: 19px; left: 3px; top: 2px; position: absolute; background: white"></div>
+        </div>
+        <div style="text-align: center; justify-content: flex-end; display: flex; flex-direction: column; color: white; font-size: 15px; font-family: Netflix Sans; font-weight: 500; word-wrap: break-word">Download</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 393px; padding-left: 12px; padding-right: 12px; left: 0px; top: 456px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 11px; display: inline-flex">
+    <div style="align-self: stretch; color: white; font-size: 13px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Wrongfully suspended while pursuing the culprit in a missing persons case, a cop seeks redemption - and justice - when he gets a new assignment.</div>
+    <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 2px; display: flex">
+      <div style="align-self: stretch; color: rgba(255, 255, 255, 0.60); font-size: 11px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Cast: Tovino Thomas, Siddique, Vineeth Thattil David... more</div>
+      <div style="align-self: stretch; color: rgba(255, 255, 255, 0.60); font-size: 11px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Creator: Darwin Kuriakose</div>
+    </div>
+  </div>
+  <div style="width: 110px; height: 4px; left: 12px; top: 618px; position: absolute; background: #E50914"></div>
+  <div style="width: 393px; height: 39px; padding-left: 39px; padding-right: 39px; left: 0px; top: 564px; position: absolute; justify-content: flex-start; align-items: flex-start; gap: 70px; display: inline-flex">
+    <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+      <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
+        <div style="width: 1.78px; height: 16.87px; left: 11.11px; top: 3.56px; position: absolute; background: white"></div>
+        <div style="width: 16.87px; height: 1.78px; left: 3.56px; top: 11.11px; position: absolute; background: white"></div>
+      </div>
+      <div style="text-align: center; color: white; font-size: 9px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">My List</div>
+    </div>
+    <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+      <div style="width: 24px; height: 24px; position: relative">
+        <div style="width: 15.75px; height: 17.56px; left: 4.13px; top: 3.35px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+      </div>
+      <div style="text-align: center; color: white; font-size: 9px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Rate</div>
+    </div>
+    <div style="flex-direction: column; justify-content: flex-start; align-items: center; gap: 4px; display: inline-flex">
+      <div style="width: 24px; height: 24px; position: relative">
+        <div style="width: 19px; height: 18px; left: 2px; top: 3px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
+      </div>
+      <div style="text-align: center; color: white; font-size: 9px; font-family: Netflix Sans; font-weight: 400; word-wrap: break-word">Share</div>
+    </div>
+  </div>
+  <div data-background="False" style="width: 402px; height: 50px; padding-top: 21px; left: -4px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+    <div style="align-self: stretch; justify-content: space-between; align-items: center; display: inline-flex">
+      <div style="flex: 1 1 0; padding-left: 16px; padding-right: 6px; justify-content: center; align-items: center; gap: 10px; display: flex">
+        <div style="text-align: center; color: var(--Labels-Primary, white); font-size: 17px; font-family: SF Pro; font-weight: 590; line-height: 22px; word-wrap: break-word">12:45</div>
+      </div>
+      <div style="width: 124px; height: 10px"></div>
+      <div style="flex: 1 1 0; padding-left: 6px; padding-right: 16px; justify-content: center; align-items: center; gap: 7px; display: flex">
+        <div style="width: 19.20px; height: 12.23px; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 17.14px; height: 12.33px; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 25px; height: 13px; opacity: 0.35; border-radius: 4.30px; border: 1px var(--Labels-Primary, white) solid"></div>
+        <div style="width: 1.33px; height: 4.08px; opacity: 0.40; background: var(--Labels-Primary, white)"></div>
+        <div style="width: 21px; height: 9px; background: var(--Labels-Primary, white); border-radius: 2.50px"></div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 393px; height: 80px; padding-top: 8px; padding-bottom: 24px; left: 0px; top: 772px; position: absolute; background: linear-gradient(0deg, black 0%, rgba(0, 0, 0, 0) 100%); border: 1px rgba(0, 0, 0, 0.10) solid"></div>
+  <div data-device="iPhone" data-orientation="Portrait" style="width: 402px; height: 34px; left: -4px; top: 818px; position: absolute">
+    <div style="width: 144px; height: 5px; left: 273px; top: 26px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: var(--Labels-Primary, white); border-radius: 100px"></div>
+  </div>
+</div>
